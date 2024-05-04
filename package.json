@@ -1,0 +1,12 @@
+{
+  "name": "@voidvoxel/package-json",
+  "version": "1.0.0",
+  "description": "Programmatically access and modify `package.json` files",
+  "main": "PackageJSON.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ashlynne Juniper",
+  "license": "MPL-2.0"
+}

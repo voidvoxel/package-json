@@ -1,2 +1,3 @@
 # package-json
- Programmatically access and modify `package.json` files
+
+Programmatically access and modify `package.json` files
